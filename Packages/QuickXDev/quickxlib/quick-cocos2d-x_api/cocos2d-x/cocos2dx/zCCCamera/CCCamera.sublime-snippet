@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CCCamera()]]></content>
+    <tabTrigger>CCCamera()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCCamera</description>
+</snippet>

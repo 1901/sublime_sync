@@ -1,0 +1,9 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		"kCCProgressTimerTypeRadial",
+		"kCCProgressTimerTypeBar",
+		{ "trigger": "CCProgressTimer:create(sp)", "contents": "CCProgressTimer:create(${1:sp})" }
+	]
+}

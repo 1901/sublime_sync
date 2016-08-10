@@ -1,0 +1,65 @@
+{
+	"auto_upgrade_ignore":
+	[
+		"QuickXDev"
+	],
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"All Autocomplete",
+		"BracketGuard",
+		"Color Scheme - Dusk",
+		"Color Schemes by carlcalderon",
+		"ConvertToUTF8",
+		"Corona Editor",
+		"CSS Format",
+		"CTags",
+		"Dayle Rees Color Schemes",
+		"Find++",
+		"Fix Mac Path",
+		"FormatLua",
+		"Git",
+		"GitGutter",
+		"GitSavvy",
+		"Gradle_Language",
+		"Gulp",
+		"HTML5",
+		"HTMLAttributes",
+		"HTMLBeautify",
+		"INI",
+		"JavaScript Completions",
+		"jQuery",
+		"LuaSmartTips",
+		"Markdown Preview",
+		"Material Theme",
+		"Nodejs",
+		"Package Control",
+		"Phaser Snippets",
+		"RailsBase16 Color Schemes",
+		"Shell Exec",
+		"ShellCommand",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-lua",
+		"SublimeREPL",
+		"Theme - DC",
+		"Theme - Freesia",
+		"Theme - Nexus",
+		"Theme - Nil",
+		"Theme - Numix",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"TypeScript",
+		"TypescriptCompletion",
+		"VIM Navigation"
+	],
+	"repositories":
+	[
+		"https://github.com/peter4431/LuaSoar"
+	]
+}

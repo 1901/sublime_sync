@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCascadeBoundingBox(${1:boundingBox})]]></content>
+    <tabTrigger>setCascadeBoundingBox(boundingBox)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode</description>
+</snippet>

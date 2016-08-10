@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setOpacityModifyRGB(${1:bOpacityModifyRGB})]]></content>
+    <tabTrigger>setOpacityModifyRGB(bOpacityModifyRGB)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCControl</description>
+</snippet>

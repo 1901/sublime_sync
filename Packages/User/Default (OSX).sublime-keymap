@@ -1,0 +1,25 @@
+[
+    { "keys": ["ctrl+tab"], "command": "goto_tab" },
+    { "keys": ["ctrl+n"], "command": "auto_complete" },
+    { "keys": ["super+ctrl+right"], "command": "navigate_to_definition" },
+    { "keys": ["super+ctrl+left"], "command": "jump_prev" },
+    { "keys": ["ctrl+f"], "command": "navigate_to_definition" },
+    { "keys": ["ctrl+b"], "command": "jump_prev" },
+    { "keys": ["ctrl+z"], "command": "jump_back" },
+    { "keys": ["ctrl+x"], "command": "jump_forward" },
+    { "keys": ["ctrl+0"], "command": "gulp", "args": { "task_name": "default" } },
+    { "keys": ["ctrl+c"], "command": "shell_command", "args": { "command": "build-ctags.sh" }},
+    {
+        "command": "show_symbols",
+        "args": {"type": "multi"},
+        "context": [
+            {
+            "key": "selector",
+            "match_all": true,
+            "operand": "source -source.css",
+            "operator": "equal"
+            }
+        ],
+        "keys": ["super+shift+o"]
+    },
+]

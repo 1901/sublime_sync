@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isLineStippleEnabled()]]></content>
+    <tabTrigger>isLineStippleEnabled()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCShapeNode</description>
+</snippet>

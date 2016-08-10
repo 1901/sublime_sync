@@ -1,0 +1,7 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCRectShape:create(size)", "contents": "CCRectShape:create(${1:size})" }
+	]
+}

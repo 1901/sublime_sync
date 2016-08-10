@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[canMakePurchases()]]></content>
+    <tabTrigger>canMakePurchases()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCStore</description>
+</snippet>

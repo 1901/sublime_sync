@@ -1,0 +1,7 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCPlace:create(pos)", "contents": "CCPlace:create(${1:pos})" }
+	]
+}

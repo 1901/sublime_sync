@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLineColor()]]></content>
+    <tabTrigger>getLineColor()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCShapeNode</description>
+</snippet>

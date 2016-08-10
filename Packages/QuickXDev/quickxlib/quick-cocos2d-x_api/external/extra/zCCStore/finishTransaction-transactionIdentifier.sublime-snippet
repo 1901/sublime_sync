@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[finishTransaction(${1:transactionIdentifier})]]></content>
+    <tabTrigger>finishTransaction(transactionIdentifier)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCStore</description>
+</snippet>

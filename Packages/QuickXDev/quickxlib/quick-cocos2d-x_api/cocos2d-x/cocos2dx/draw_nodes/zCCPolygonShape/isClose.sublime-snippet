@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isClose()]]></content>
+    <tabTrigger>isClose()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCPolygonShape</description>
+</snippet>

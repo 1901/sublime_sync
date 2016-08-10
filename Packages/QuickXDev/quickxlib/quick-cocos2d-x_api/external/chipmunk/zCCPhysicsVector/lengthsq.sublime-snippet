@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[lengthsq()]]></content>
+    <tabTrigger>lengthsq()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCPhysicsVector</description>
+</snippet>

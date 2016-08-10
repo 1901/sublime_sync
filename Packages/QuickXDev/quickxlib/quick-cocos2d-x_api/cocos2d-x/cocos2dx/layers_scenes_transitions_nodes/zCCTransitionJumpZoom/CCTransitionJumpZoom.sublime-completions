@@ -1,0 +1,7 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		{ "trigger": "CCTransitionJumpZoom:create(t, scene)", "contents": "CCTransitionJumpZoom:create(${1:t}, ${2:scene})" }
+	]
+}

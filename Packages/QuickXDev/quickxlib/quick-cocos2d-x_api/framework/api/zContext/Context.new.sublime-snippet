@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[api.Context.new()]]></content>
+    <tabTrigger>Context.new()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>Context</description>
+</snippet>

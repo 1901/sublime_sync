@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CCLabelTTF()]]></content>
+    <tabTrigger>CCLabelTTF()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLabelTTF</description>
+</snippet>

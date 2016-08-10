@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get(${1:pName})]]></content>
+    <tabTrigger>get(pName)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCComponentContainer</description>
+</snippet>

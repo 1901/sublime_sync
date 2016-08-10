@@ -1,0 +1,7 @@
+Backup/
+Cache/
+Index/
+Local/
+
+Packages/User/*.cache
+Packages/User/encoding_cache.json

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[normalize()]]></content>
+    <tabTrigger>normalize()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCPoint</description>
+</snippet>

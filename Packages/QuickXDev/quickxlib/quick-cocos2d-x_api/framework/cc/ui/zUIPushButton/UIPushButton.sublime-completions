@@ -1,0 +1,9 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		"UIPushButton.NORMAL",
+		"UIPushButton.PRESSED",
+		"UIPushButton.DISABLED"
+	]
+}

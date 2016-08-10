@@ -1,0 +1,73 @@
+{
+	"additional_path_items":
+	[
+		"/Users/kaixuan/Documents/project/heroes/client/heroes/",
+		"/Users/kaixuan/Documents/project/brain/client/brain/"
+	],
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Triplet Lite (SL).tmTheme",
+	"draw_white_space": "selection",
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		".tags",
+		".tags_sorted_by_file"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git"
+	],
+	"font_face": "CamingoCode Italic",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 15,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"icon_file_type_enable": true,
+	"ignored_packages":
+	[
+		"Corona Editor",
+		"Git",
+		"SublimeClang",
+		"SublimeCodeIntel",
+		"TypeScript"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		".gitignore",
+		"*.pyc"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"match_tags": true,
+	"material_theme_accent_blue": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_panel_separator": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"show_encoding": true,
+	"show_tab_close_buttons": true,
+	"sidebar_font_small": true,
+	"soda_folder_icons": true,
+	"tab_completion": false,
+	"tab_size": 4,
+	"theme": "Otto Tomorrow.sublime-theme",
+	"theme_otto_scrollbars_monochrome": true,
+	"theme_otto_tab_selected_underlined": true,
+	"theme_otto_tab_small": true,
+	"translate_tabs_to_spaces": true,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": false
+}

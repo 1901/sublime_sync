@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPercentage(${1:fPercentage})]]></content>
+    <tabTrigger>setPercentage(fPercentage)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCProgressTimer</description>
+</snippet>

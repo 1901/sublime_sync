@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateLabel()]]></content>
+    <tabTrigger>updateLabel()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLabelBMFont</description>
+</snippet>

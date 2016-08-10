@@ -1,0 +1,17 @@
+{
+	"scope": "source.lua",
+	"completions": 
+	[
+		"kTargetWindows",
+		"kTargetLinux",
+		"kTargetMacOS",
+		"kTargetAndroid",
+		"kTargetIphone",
+		"kTargetIpad",
+		"kTargetBlackBerry",
+		"kTargetNaCl",
+		"kTargetEmscripten",
+		"kTargetTizen",
+		{ "trigger": "CCApplication:sharedApplication()", "contents": "CCApplication:sharedApplication()" }
+	]
+}

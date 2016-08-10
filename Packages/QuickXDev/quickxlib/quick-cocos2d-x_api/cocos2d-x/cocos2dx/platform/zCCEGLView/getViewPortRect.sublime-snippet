@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getViewPortRect()]]></content>
+    <tabTrigger>getViewPortRect()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCEGLView</description>
+</snippet>

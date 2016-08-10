@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setNormalImage(${1:node})]]></content>
+    <tabTrigger>setNormalImage(node)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenuItemSprite</description>
+</snippet>

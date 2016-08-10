@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[rectForGID(${1:gid})]]></content>
+    <tabTrigger>rectForGID(gid)</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXTilesetInfo</description>
+</snippet>

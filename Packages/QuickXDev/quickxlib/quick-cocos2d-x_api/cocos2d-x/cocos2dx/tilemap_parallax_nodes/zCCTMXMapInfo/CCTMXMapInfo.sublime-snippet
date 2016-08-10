@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CCTMXMapInfo()]]></content>
+    <tabTrigger>CCTMXMapInfo()</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXMapInfo</description>
+</snippet>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>Ian Hill, mod by dubeg</string>
+	<key>comment</key>
+	<string>A widget theme for the UI components of the Dark and Cyan theme.</string>
+	<key>name</key>
+	<string>Dark Cyan - Widget Theme</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#fff</string>
+				<key>caret</key>
+				<string>#644b74</string>
+				<key>foreground</key>
+				<string>#000</string>
+				<key>invisibles</key>
+				<string>#0a0a0a</string>
+				<key>lineHighlight</key>
+				<string>#644b74</string>
+				<key>selection</key>
+				<string>#add6ffff</string>
+				<key>selectionBorder</key>
+				<string>#add6ffff</string>
+				<key>inactiveSelection</key>
+				<string>#fff</string>
+			</dict>
+		</dict>
+	<dict>
+            <key>name</key>
+            <string>SublimeLinter Gutter Mark</string>
+            <key>scope</key>
+            <string>sublimelinter.gutter-mark</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFFFFF</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>SublimeLinter Error</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.error</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#D02000</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>SublimeLinter Warning</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.warning</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DDB700</string>
+            </dict>
+        </dict></array>
+</dict>
+</plist>
