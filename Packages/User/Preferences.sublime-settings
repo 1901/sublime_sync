@@ -7,7 +7,7 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Triplet Lite (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Triplet (SL).tmTheme",
 	"draw_white_space": "selection",
 	"file_exclude_patterns":
 	[
@@ -20,12 +20,12 @@
 		".svn",
 		".git"
 	],
-	"font_face": "CamingoCode Italic",
+	"font_face": "Aurulent Sans Mono",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 15,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"icon_file_type_enable": true,
@@ -33,6 +33,7 @@
 	[
 		"Corona Editor",
 		"Git",
+		"Package Control",
 		"SublimeClang",
 		"SublimeCodeIntel",
 		"TypeScript"
