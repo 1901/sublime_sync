@@ -7,7 +7,7 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Triplet (SL).tmTheme",
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
 	"draw_white_space": "selection",
 	"file_exclude_patterns":
 	[
@@ -62,7 +62,7 @@
 	"soda_folder_icons": true,
 	"tab_completion": false,
 	"tab_size": 4,
-	"theme": "ayu.sublime-theme",
+	"theme": "ayu-mirage.sublime-theme",
 	"theme_otto_scrollbars_monochrome": true,
 	"theme_otto_tab_selected_underlined": true,
 	"theme_otto_tab_small": true,
